@@ -1,0 +1,6 @@
+C:\Users\student\source\repos\praktikaKupEga\praktikaKupEga\obj\Debug\praktikaKupEga.csprojAssemblyReference.cache
+C:\Users\student\source\repos\praktikaKupEga\praktikaKupEga\obj\Debug\praktikaKupEga.Form2.resources
+C:\Users\student\source\repos\praktikaKupEga\praktikaKupEga\obj\Debug\praktikaKupEga.Form1.resources
+C:\Users\student\source\repos\praktikaKupEga\praktikaKupEga\obj\Debug\praktikaKupEga.Properties.Resources.resources
+C:\Users\student\source\repos\praktikaKupEga\praktikaKupEga\obj\Debug\praktikaKupEga.csproj.GenerateResource.cache
+C:\Users\student\source\repos\praktikaKupEga\praktikaKupEga\obj\Debug\praktikaKupEga.csproj.CoreCompileInputs.cache
