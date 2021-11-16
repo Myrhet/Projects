@@ -1,0 +1,10 @@
+C:\Users\student\source\repos\WindowsFormsApp1Kuptsov\WindowsFormsApp1Kuptsov\bin\Debug\WindowsFormsApp1Kuptsov.exe.config
+C:\Users\student\source\repos\WindowsFormsApp1Kuptsov\WindowsFormsApp1Kuptsov\bin\Debug\WindowsFormsApp1Kuptsov.exe
+C:\Users\student\source\repos\WindowsFormsApp1Kuptsov\WindowsFormsApp1Kuptsov\bin\Debug\WindowsFormsApp1Kuptsov.pdb
+C:\Users\student\source\repos\WindowsFormsApp1Kuptsov\WindowsFormsApp1Kuptsov\obj\Debug\WindowsFormsApp1Kuptsov.csprojAssemblyReference.cache
+C:\Users\student\source\repos\WindowsFormsApp1Kuptsov\WindowsFormsApp1Kuptsov\obj\Debug\WindowsFormsApp1Kuptsov.Properties.Resources.resources
+C:\Users\student\source\repos\WindowsFormsApp1Kuptsov\WindowsFormsApp1Kuptsov\obj\Debug\WindowsFormsApp1Kuptsov.csproj.GenerateResource.cache
+C:\Users\student\source\repos\WindowsFormsApp1Kuptsov\WindowsFormsApp1Kuptsov\obj\Debug\WindowsFormsApp1Kuptsov.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\WindowsFormsApp1Kuptsov\WindowsFormsApp1Kuptsov\obj\Debug\WindowsFormsApp1Kuptsov.exe
+C:\Users\student\source\repos\WindowsFormsApp1Kuptsov\WindowsFormsApp1Kuptsov\obj\Debug\WindowsFormsApp1Kuptsov.pdb
+C:\Users\student\source\repos\WindowsFormsApp1Kuptsov\WindowsFormsApp1Kuptsov\obj\Debug\WindowsFormsApp1Kuptsov.LoginForm.resources
