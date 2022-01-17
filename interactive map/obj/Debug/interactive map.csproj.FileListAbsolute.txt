@@ -1,0 +1,75 @@
+\\Pc-43-53-01\лабораторные\31КС\АнтошкоЩербина\interactive map\interactive map\bin\Debug\interactive map.exe.config
+\\Pc-43-53-01\лабораторные\31КС\АнтошкоЩербина\interactive map\interactive map\bin\Debug\interactive map.exe
+\\Pc-43-53-01\лабораторные\31КС\АнтошкоЩербина\interactive map\interactive map\bin\Debug\interactive map.pdb
+\\Pc-43-53-01\лабораторные\31КС\АнтошкоЩербина\interactive map\interactive map\obj\Debug\interactive map.csprojAssemblyReference.cache
+\\Pc-43-53-01\лабораторные\31КС\АнтошкоЩербина\interactive map\interactive map\obj\Debug\interactive_map.Form1.resources
+\\Pc-43-53-01\лабораторные\31КС\АнтошкоЩербина\interactive map\interactive map\obj\Debug\interactive_map.Properties.Resources.resources
+\\Pc-43-53-01\лабораторные\31КС\АнтошкоЩербина\interactive map\interactive map\obj\Debug\interactive map.csproj.GenerateResource.cache
+\\Pc-43-53-01\лабораторные\31КС\АнтошкоЩербина\interactive map\interactive map\obj\Debug\interactive map.csproj.CoreCompileInputs.cache
+\\Pc-43-53-01\лабораторные\31КС\АнтошкоЩербина\interactive map\interactive map\obj\Debug\interactive map.exe
+\\Pc-43-53-01\лабораторные\31КС\АнтошкоЩербина\interactive map\interactive map\obj\Debug\interactive map.pdb
+\\Pc-43-53-01\лабораторные\31КС\АнтошкоЩербина\interactive map\interactive map\bin\Debug\Resources\map-icon-drinks.png
+\\Pc-43-53-01\лабораторные\31КС\АнтошкоЩербина\interactive map\interactive map\bin\Debug\Resources\map-icon-energy-bars.png
+\\Pc-43-53-01\лабораторные\31КС\АнтошкоЩербина\interactive map\interactive map\bin\Debug\Resources\map-icon-information.png
+\\Pc-43-53-01\лабораторные\31КС\АнтошкоЩербина\interactive map\interactive map\bin\Debug\Resources\map-icon-medical.png
+\\Pc-43-53-01\лабораторные\31КС\АнтошкоЩербина\interactive map\interactive map\bin\Debug\Resources\map-icon-start.png
+\\Pc-43-53-01\лабораторные\31КС\АнтошкоЩербина\interactive map\interactive map\bin\Debug\Resources\map-icon-toilets.png
+\\Pc-43-53-01\лабораторные\31КС\АнтошкоЩербина\interactive map\interactive map\bin\Debug\Resources\mapws.png
+\\Pc-43-53-01\лабораторные\31КС\АнтошкоЩербина\interactive map\interactive map\bin\Debug\Resources\finish.png
+\\Pc-43-53-01\лабораторные\31КС\АнтошкоЩербина\interactive map\interactive map\bin\Debug\Resources\point.png
+\\Pc-43-53-01\лабораторные\31КС\АнтошкоЩербина\interactive map\interactive map\bin\Debug\Resources\map-icon-toilets1.png
+\\Pc-43-53-01\лабораторные\31КС\АнтошкоЩербина\interactive map\interactive map\bin\Debug\Resources\map-icon-medical1.png
+\\Pc-43-53-01\лабораторные\31КС\АнтошкоЩербина\interactive map\interactive map\bin\Debug\Resources\map-icon-information1.png
+\\Pc-43-53-01\лабораторные\31КС\АнтошкоЩербина\interactive map\interactive map\bin\Debug\Resources\map-icon-energy-bars1.png
+\\Pc-43-53-01\лабораторные\31КС\АнтошкоЩербина\interactive map\interactive map\bin\Debug\Resources\map-icon-drinks1.png
+\\Pc-43-53-01\лабораторные\31КС\АнтошкоЩербина\interactive map\interactive map\bin\Debug\Resources\map-icon-start1.png
+\\Pc-43-53-01\лабораторные\31КС\АнтошкоЩербина\interactive map v.2\interactive map\bin\Debug\Resources\map-icon-drinks.png
+\\Pc-43-53-01\лабораторные\31КС\АнтошкоЩербина\interactive map v.2\interactive map\bin\Debug\Resources\map-icon-energy-bars.png
+\\Pc-43-53-01\лабораторные\31КС\АнтошкоЩербина\interactive map v.2\interactive map\bin\Debug\Resources\map-icon-information.png
+\\Pc-43-53-01\лабораторные\31КС\АнтошкоЩербина\interactive map v.2\interactive map\bin\Debug\Resources\map-icon-medical.png
+\\Pc-43-53-01\лабораторные\31КС\АнтошкоЩербина\interactive map v.2\interactive map\bin\Debug\Resources\map-icon-start.png
+\\Pc-43-53-01\лабораторные\31КС\АнтошкоЩербина\interactive map v.2\interactive map\bin\Debug\Resources\map-icon-toilets.png
+\\Pc-43-53-01\лабораторные\31КС\АнтошкоЩербина\interactive map v.2\interactive map\bin\Debug\Resources\mapws.png
+\\Pc-43-53-01\лабораторные\31КС\АнтошкоЩербина\interactive map v.2\interactive map\bin\Debug\Resources\finish.png
+\\Pc-43-53-01\лабораторные\31КС\АнтошкоЩербина\interactive map v.2\interactive map\bin\Debug\Resources\point.png
+\\Pc-43-53-01\лабораторные\31КС\АнтошкоЩербина\interactive map v.2\interactive map\bin\Debug\Resources\map-icon-toilets1.png
+\\Pc-43-53-01\лабораторные\31КС\АнтошкоЩербина\interactive map v.2\interactive map\bin\Debug\Resources\map-icon-medical1.png
+\\Pc-43-53-01\лабораторные\31КС\АнтошкоЩербина\interactive map v.2\interactive map\bin\Debug\Resources\map-icon-information1.png
+\\Pc-43-53-01\лабораторные\31КС\АнтошкоЩербина\interactive map v.2\interactive map\bin\Debug\Resources\map-icon-energy-bars1.png
+\\Pc-43-53-01\лабораторные\31КС\АнтошкоЩербина\interactive map v.2\interactive map\bin\Debug\Resources\map-icon-drinks1.png
+\\Pc-43-53-01\лабораторные\31КС\АнтошкоЩербина\interactive map v.2\interactive map\bin\Debug\Resources\map-icon-start1.png
+\\Pc-43-53-01\лабораторные\31КС\АнтошкоЩербина\interactive map v.2\interactive map\bin\Debug\interactive map.exe.config
+\\Pc-43-53-01\лабораторные\31КС\АнтошкоЩербина\interactive map v.2\interactive map\bin\Debug\interactive map.exe
+\\Pc-43-53-01\лабораторные\31КС\АнтошкоЩербина\interactive map v.2\interactive map\bin\Debug\interactive map.pdb
+\\Pc-43-53-01\лабораторные\31КС\АнтошкоЩербина\interactive map v.2\interactive map\obj\Debug\interactive map.csprojAssemblyReference.cache
+\\Pc-43-53-01\лабораторные\31КС\АнтошкоЩербина\interactive map v.2\interactive map\obj\Debug\interactive_map.Form1.resources
+\\Pc-43-53-01\лабораторные\31КС\АнтошкоЩербина\interactive map v.2\interactive map\obj\Debug\interactive_map.Properties.Resources.resources
+\\Pc-43-53-01\лабораторные\31КС\АнтошкоЩербина\interactive map v.2\interactive map\obj\Debug\interactive map.csproj.GenerateResource.cache
+\\Pc-43-53-01\лабораторные\31КС\АнтошкоЩербина\interactive map v.2\interactive map\obj\Debug\interactive map.csproj.CoreCompileInputs.cache
+\\Pc-43-53-01\лабораторные\31КС\АнтошкоЩербина\interactive map v.2\interactive map\obj\Debug\interactive map.exe
+\\Pc-43-53-01\лабораторные\31КС\АнтошкоЩербина\interactive map v.2\interactive map\obj\Debug\interactive map.pdb
+\\Pc-43-53-01\лабораторные\31КС\АнтошкоЩербина\interactive map v.2.1\interactive map\bin\Debug\Resources\map-icon-drinks.png
+\\Pc-43-53-01\лабораторные\31КС\АнтошкоЩербина\interactive map v.2.1\interactive map\bin\Debug\Resources\map-icon-energy-bars.png
+\\Pc-43-53-01\лабораторные\31КС\АнтошкоЩербина\interactive map v.2.1\interactive map\bin\Debug\Resources\map-icon-information.png
+\\Pc-43-53-01\лабораторные\31КС\АнтошкоЩербина\interactive map v.2.1\interactive map\bin\Debug\Resources\map-icon-medical.png
+\\Pc-43-53-01\лабораторные\31КС\АнтошкоЩербина\interactive map v.2.1\interactive map\bin\Debug\Resources\map-icon-start.png
+\\Pc-43-53-01\лабораторные\31КС\АнтошкоЩербина\interactive map v.2.1\interactive map\bin\Debug\Resources\map-icon-toilets.png
+\\Pc-43-53-01\лабораторные\31КС\АнтошкоЩербина\interactive map v.2.1\interactive map\bin\Debug\Resources\mapws.png
+\\Pc-43-53-01\лабораторные\31КС\АнтошкоЩербина\interactive map v.2.1\interactive map\bin\Debug\Resources\finish.png
+\\Pc-43-53-01\лабораторные\31КС\АнтошкоЩербина\interactive map v.2.1\interactive map\bin\Debug\Resources\point.png
+\\Pc-43-53-01\лабораторные\31КС\АнтошкоЩербина\interactive map v.2.1\interactive map\bin\Debug\Resources\map-icon-toilets1.png
+\\Pc-43-53-01\лабораторные\31КС\АнтошкоЩербина\interactive map v.2.1\interactive map\bin\Debug\Resources\map-icon-medical1.png
+\\Pc-43-53-01\лабораторные\31КС\АнтошкоЩербина\interactive map v.2.1\interactive map\bin\Debug\Resources\map-icon-information1.png
+\\Pc-43-53-01\лабораторные\31КС\АнтошкоЩербина\interactive map v.2.1\interactive map\bin\Debug\Resources\map-icon-energy-bars1.png
+\\Pc-43-53-01\лабораторные\31КС\АнтошкоЩербина\interactive map v.2.1\interactive map\bin\Debug\Resources\map-icon-drinks1.png
+\\Pc-43-53-01\лабораторные\31КС\АнтошкоЩербина\interactive map v.2.1\interactive map\bin\Debug\Resources\map-icon-start1.png
+\\Pc-43-53-01\лабораторные\31КС\АнтошкоЩербина\interactive map v.2.1\interactive map\bin\Debug\interactive map.exe.config
+\\Pc-43-53-01\лабораторные\31КС\АнтошкоЩербина\interactive map v.2.1\interactive map\bin\Debug\interactive map.exe
+\\Pc-43-53-01\лабораторные\31КС\АнтошкоЩербина\interactive map v.2.1\interactive map\bin\Debug\interactive map.pdb
+\\Pc-43-53-01\лабораторные\31КС\АнтошкоЩербина\interactive map v.2.1\interactive map\obj\Debug\interactive map.csprojAssemblyReference.cache
+\\Pc-43-53-01\лабораторные\31КС\АнтошкоЩербина\interactive map v.2.1\interactive map\obj\Debug\interactive_map.Form1.resources
+\\Pc-43-53-01\лабораторные\31КС\АнтошкоЩербина\interactive map v.2.1\interactive map\obj\Debug\interactive_map.Properties.Resources.resources
+\\Pc-43-53-01\лабораторные\31КС\АнтошкоЩербина\interactive map v.2.1\interactive map\obj\Debug\interactive map.csproj.GenerateResource.cache
+\\Pc-43-53-01\лабораторные\31КС\АнтошкоЩербина\interactive map v.2.1\interactive map\obj\Debug\interactive map.csproj.CoreCompileInputs.cache
+\\Pc-43-53-01\лабораторные\31КС\АнтошкоЩербина\interactive map v.2.1\interactive map\obj\Debug\interactive map.exe
+\\Pc-43-53-01\лабораторные\31КС\АнтошкоЩербина\interactive map v.2.1\interactive map\obj\Debug\interactive map.pdb
